@@ -53,10 +53,8 @@ The WISER Project in Ghana investigates the role of social capital in enhancing 
 Data not included due to confidentiality. Please contact me for collaboration requests.
 
 ## Repository Structure
-├── analysis.Rmd         # R Markdown source file  
-├── analysis.html        # Knitted HTML report  
-├── figures/             # Plots and visualizations  
-├── README.md            # Project description  
+ analysis.html        # Knitted HTML report  
+README.md            # Project description  
 
 ## License / Citation
 This project is for academic and research purposes. Please cite appropriately if referenced, e.g., Sei, Lawrence. (2025). WISER Project Ghana: How Does Social Capital Contribute to Well-Being in Times of Economic Challenges? Target Group: Street Vendors and Hawkers (Only Women): Exploratory Data Analysis.
